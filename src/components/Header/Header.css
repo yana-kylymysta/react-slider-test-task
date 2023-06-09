@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+
+.header__logo {
+    width: 100%;
+    max-width: 99px;
+}

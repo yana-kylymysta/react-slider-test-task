@@ -1,0 +1,8 @@
+.feedback {
+    margin: 5rem 0;
+}
+.feedback__text {
+    max-width: 594px;
+    text-align: center;
+    margin: 0 auto;
+}
